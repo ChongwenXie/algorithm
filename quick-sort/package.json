@@ -1,0 +1,24 @@
+{
+  "name": "quick-sort",
+  "version": "1.0.0",
+  "description": "quick sort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChongwenXie/algorithm.git"
+  },
+  "keywords": [
+    "quick",
+    "sort",
+    "node"
+  ],
+  "author": "Chongwen Xie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChongwenXie/algorithm/issues"
+  },
+  "homepage": "https://github.com/ChongwenXie/algorithm#readme"
+}
